@@ -1,2 +1,4 @@
 This is the README file for the Hello-world project.
-authos email : alice@hansung.ac.kr
+
+autho's email : bob@hansung.ac.kr
+
